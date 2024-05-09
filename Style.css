@@ -1,0 +1,20 @@
+:root {
+    --minha-cor: #791cc9; /* Substitua pelo seu código de cor preferido */
+}
+
+/* Agora você pode usar essa cor personalizada em qualquer lugar do seu CSS */
+body {
+    color: var(--minha-cor);
+}
+
+.header-content {
+    background: var(--minha-cor);
+}
+
+form button {
+    background-color: var(--minha-cor);
+}
+
+.footer {
+    background-color: var(--minha-cor);
+}
