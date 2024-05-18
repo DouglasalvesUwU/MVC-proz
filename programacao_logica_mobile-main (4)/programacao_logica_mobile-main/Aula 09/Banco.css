@@ -1,0 +1,22 @@
+
+@media screen and (min-width: 768) and (max-width:992px) {
+
+}
+
+    body { text-align: center;
+
+      background-image: linear-gradient(to top ,#170f6481 , rgba(53, 111, 177, 0.818));
+
+background-repeat: no-repeat;
+width: 100vw;
+height: 100vh;
+}
+
+h1 {
+
+    color: rgb(122, 73, 54);
+}
+
+img {
+    align-self: auto;
+}
